@@ -5,4 +5,3 @@ require("zukie.packer")
 vim.keymap.set("i", "jk", "<Esc>", { noremap = true })
 vim.opt.clipboard = "unnamedplus"
 
-print("This is a test")
