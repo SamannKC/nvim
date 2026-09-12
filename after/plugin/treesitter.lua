@@ -3,7 +3,6 @@ local ts = require("nvim-treesitter")
 ts.setup()
 
 ts.install({
-	"help",
 	"javascript",
 	"c",
 	"python",
